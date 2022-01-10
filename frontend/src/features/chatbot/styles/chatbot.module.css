@@ -1,0 +1,15 @@
+.chatbotIMG {
+  position: fixed;
+  right: 10vh;
+  bottom: 10vh;
+  width: 7vh;
+  height: 9vh;
+  z-index: 10;
+}
+
+.chatbotTXT {
+  right: 140px;
+  bottom: 50px;
+  position: fixed;
+  z-index: 10px;
+}

@@ -1,0 +1,42 @@
+$color: red;
+
+.accor_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  flex-wrap: nowrap;
+}
+
+.accor_container {
+  display: grid;
+
+  grid-template:
+    "activity activity" 1fr
+    "restaurant restaurant" 1fr
+    "tourist tourist" 1fr;
+  // place-items: stretch / center;
+  // place-content: center / center;
+}
+
+.activity {
+  grid-area: activity;
+}
+.restaurant {
+  grid-area: restaurant;
+  display: flex;
+}
+.tourist {
+  grid-area: tourist;
+  display: flex;
+}
+
+/* @media screen and (min-width: 768px) {
+  .layout {
+    width: 1100px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background: white;
+    border-radius: 20px;
+    border-radius: 12px;
+  }
+} */

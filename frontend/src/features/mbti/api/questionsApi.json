@@ -1,0 +1,183 @@
+[
+	{
+		"id": 1,
+		"option": "EI",
+		"question": "숙소를 구할 때, 나는?",
+		"answers": [
+			{
+				"type": "E",
+				"content": "새로운 인연을 만날 수 있는 게스트하우스가 좋아"
+			},
+			{
+				"type": "I",
+				"content": "우리까지 프라이빗하게 놀 수 있는 팬션이나 호텔 아니면 불편해"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"option": "EI",
+		"question": "여행지에서 나의 감정에 대해서 상대에게?",
+		"answers": [
+			{
+				"type": "E",
+
+				"content": "말로 내뱉어야 적성이 풀린다"
+			},
+			{
+				"type": "I",
+				"content": "내 마음속에 저장, 마음에 담고 느낀다"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"option": "EI",
+		"question": "우리 여행지 가서 뭐 할까? 라는 친구의 말에 나는?",
+		"answers": [
+			{
+				"type": "E",
+				"content": "자전거, 캬약 등 다양한 액티비티를 하자"
+			},
+			{
+				"type": "I",
+				"content": "편안한 장소에서 느긋하게 힐링하자"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"option": "SN",
+		"question": "여행을 다녀온 후, 집에 돌아온 나는?",
+		"answers": [
+			{
+				"type": "S",
+				"content": "캐리어를 열고 물건을 정리한다"
+			},
+			{
+				"type": "N",
+				"content": "홈 스윗 홈… 침대로 점프!"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"which": "SN",
+		"question": "여행지에서 길을 잃었을 때",
+		"answers": [
+			{
+				"type": "S",
+				"content": "지도 맵을 찾아 볼까"
+			},
+			{
+				"type": "N",
+				"content": "자꾸 걸어 가나면 길이 있겠지. 지구는 둥그니까"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"which": "SN",
+		"question": "친구가 쓸데없는 기념품을 살 때",
+		"answers": [
+			{
+				"type": "S",
+				"content": "그거 결국 쓰레기 된다"
+			},
+			{
+				"type": "N",
+				"content": "그래 니가 행복하다면…"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"option": "TF",
+		"question": "화려한 건축물을 보며 드는 생각은?",
+		"answers": [
+			{
+				"type": "T",
+				"content": "어떤 방법으로 지었을까? 하며 고민한다"
+			},
+			{
+				"type": "F",
+				"content": "와 멋있다.. 감탄한다"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"option": "TF",
+		"question": "친구에게 차 사고가 났다고 전화 왔을 때 나의 대답은",
+		"answers": [
+			{
+				"type": "T",
+				"content": "보험은 들었어?"
+			},
+			{
+				"type": "F",
+				"content": "괜찮아? ㅠㅠ 다친 데는 없어?"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"option": "TF",
+		"question": "나는 여행지를 선택할 때 주로",
+		"answers": [
+			{
+				"type": "T",
+				"content": "나무가 많은 자연으로"
+			},
+			{
+				"type": "F",
+				"content": "사람이 많은 도시로"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"option": "JP",
+		"question": "내일 여행을 떠날 것이다. 나의 계획은 어느 정도?",
+		"answers": [
+			{
+				"type": "J",
+				"content": "계획은 필수! 맛집, 볼거리 등 여행지 정보 정리 끝났지"
+			},
+			{
+				"type": "P",
+				"content": "계획은 무슨, 내가 걷는 길이 곧 여행코스이야!"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"option": "JP",
+		"question": "여행 경비는?",
+		"answers": [
+			{
+				"type": "J",
+				"content": "예산에 맞추어야 해! 걸어다니는 계산기로 변신"
+			},
+			{
+				"type": "P",
+				"content": "당장 국제거지지만 안되면 되지!"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"option": "JP",
+		"question": "여행지에서 식사할 때?",
+		"answers": [
+			{
+				"type": "J",
+				"content": "유명한 맛집은 다 경험해야지! 소문난 맛집 위주!"
+			},
+			{
+				"type": "P",
+				"content": "처음 본 순간 사랑에 빠진 길거리 가게도 좋아!"
+			}
+		]
+	}
+]

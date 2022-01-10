@@ -1,0 +1,34 @@
+.grid {
+  display: grid;
+  grid-template-columns: auto 200px;
+  grid-template-rows: 100px repeat(2, 200px) 100px;
+  grid-template-areas:
+    "invoice"
+    "invoice"
+    "ScheduleAcc"
+    "VoucherTab";
+  gap: 10px;
+  grid-template-columns: repeat(4, 100px);
+  grid-template-rows: repeat(4, 100px);
+}
+
+.invoice {
+  background-color: #2ecc71;
+  grid-area: invoice;
+  grid-column-start: 1;
+  grid-column-end: 5;
+}
+.ScheduleAcc {
+  background-color: #3498db;
+  grid-area: ScheduleAcc;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 4;
+}
+.VoucherTab {
+  background-color: #8e44ad;
+  grid-area: VoucherTab;
+  grid-row-start: 2;
+  grid-row-end: 4;
+}
