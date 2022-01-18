@@ -60,7 +60,8 @@ class Preprocess:
 
 
 if __name__ == '__main__':
-    sent = "내일 제주도 날씨 어때? 이런 강아지같은사람아"
+    sent = "내일 제주도 날씨 어때?"
+    
     p = Preprocess(userdic='./data/user_dic_2.tsv')
     pos = p.pos(sent)
     ret = p.get_keywords(pos, without_tag=False)
