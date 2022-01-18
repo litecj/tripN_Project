@@ -23,7 +23,6 @@ class CreateDict:
         # 말뭉치 데이터 가져오기
         corpus_data = self.read_corpus_data('./data/Q&A_Q.csv')
 
-
         # 망뭉치 데이터에서 키워드만 추출해서 사전 리스트 생성
         p = Preprocess()
         dict = []
@@ -76,5 +75,5 @@ class CreateDict:
 
 if __name__ == '__main__':
     c = CreateDict()
-    # c.create_dict()
+    c.create_dict()
     c.dict_test()
