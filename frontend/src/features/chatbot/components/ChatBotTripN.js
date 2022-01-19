@@ -204,7 +204,6 @@ export default function ChatBotTripN() {
             },
             trigger: 'check'
           },
-          
           {
             id: 'check',
             component: <CheckDate/>,
