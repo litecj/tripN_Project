@@ -58,7 +58,6 @@ class Preprocess:
         return w2i
 
 
-
 if __name__ == '__main__':
     sent = "내일 제주도 날씨 어때?"
 
