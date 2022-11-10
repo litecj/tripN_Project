@@ -22,8 +22,8 @@
 - Personalization
 - Chat-Bot
 - OCR
-> ### [🔗 소개 영상 바로가기](https://www.youtube.com/watch?v=fMFRu8OFgy8)
-> ### [🔗 Docker Hub 바로가기](https://hub.docker.com/r/litecj702/tripn-jeju)
+> ### [🔗 소개 영상 바로가기](https://www.youtube.com/)
+> ### [🔗 Docker Hub 바로가기](https://hub.docker.com/)
 <br />
 
 ## 🎛️ 환경
